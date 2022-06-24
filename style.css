@@ -110,3 +110,23 @@ ul>li{
     display: relative;
     text-align: center;
 }
+
+
+.body-cont{
+    background: white; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 400px; 
+}
+
+.box{
+    background: #1f2937;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    color: #fff;
+    height: 50px;
+    width: 50px;
+    gap: 10px; 
+}
